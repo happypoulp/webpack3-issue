@@ -14,4 +14,8 @@ yarn start
 
 ## Issue
 
-Update src/index.js, save file and see page being reloaded in your browser even though HMR is NOT enabled.
+The issue: https://github.com/webpack/webpack-dev-server/issues/1251
+
+1. Update `src/index.js`
+2. save file
+3. see page being reloaded in your browser even though HMR is NOT enabled
