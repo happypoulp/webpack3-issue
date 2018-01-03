@@ -1,4 +1,4 @@
-# Demo of issue to disable HMR in webpack 3
+# Demo of webpack 3 issue
 
 ## Build
 
@@ -14,4 +14,4 @@ yarn start
 
 ## Issue
 
-Update src/index.js, save file and see page being reloaded in your browser even though HMR is NOT enabled.
+Go to appropriate branch to see the issue.
